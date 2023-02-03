@@ -1,0 +1,4 @@
+emoji
+pytelegrambotapi
+openai
+asgiref
